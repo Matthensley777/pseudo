@@ -1,0 +1,16 @@
+
+
+.block {
+	display: inline;
+}
+
+.inline {
+	display: block;
+	border: solid black 1px;
+	margin: 25px;
+
+}
+
+.n-child:nth-child(2n+0) {
+	boarder: solid black 1px;
+}
